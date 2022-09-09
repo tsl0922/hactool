@@ -6,3 +6,15 @@
 /bin
 /test
 /test/*
+
+/.vs
+/out
+/CMakeSettings.json
+
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+build
